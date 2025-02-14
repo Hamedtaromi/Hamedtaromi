@@ -8,7 +8,7 @@
   </a>
   
   <a href="mailto:hamedtaromi8@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/gmail.png" alt="Email" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/gmail.png" alt="Email" width="40" height="45"/>
   </a>
    
 </p>
