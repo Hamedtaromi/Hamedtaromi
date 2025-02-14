@@ -58,7 +58,7 @@
   <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/apache/D22128" alt="Apache" width="48" height="48"/>
   </a>
-     <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
+   <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
     <img src="https://example.com/path/to/zabbix-icon.png" alt="Zabbix" width="48" height="48"/>
   </a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
