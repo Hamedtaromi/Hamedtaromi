@@ -64,7 +64,7 @@
     <img src="https://cdn.simpleicons.org/apache/D22128" alt="Apache" width="48" height="48"/>
   </a>
    <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="Zabbix" width="48" height="48"/>
+    <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="Zabbix" width="40" height="40"/>
   </a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus" width="48" height="48"/>
