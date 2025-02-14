@@ -2,23 +2,18 @@
 
 ## 🔴Connect with me :
 <p align="left">
-  <a href="https://www.linkedin.com/in/hamedtaromi" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/linkdein.png" alt="Linkedin"/>
+ <a href="https://www.linkedin.com/in/hamedtaromi/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="48" height="48"/>
   </a>
-  
 
 ## 🔴 Technologies I Use :
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
   </a>
-
-  
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes"/>
   </a>
-
-  
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
   </a>
@@ -52,7 +47,6 @@
       <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/microsoft.png" alt="Microsoft"/>
   </a>
-<p align="left">
   <a href="https://owasp.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/owasp/000000" alt="OWASP" width="48" height="48"/>
   </a>
@@ -72,8 +66,6 @@
   <a href="https://mikrotik.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/mikrotik/FF0000" alt="MikroTik" width="48" height="48"/>
   </a>
-  ## 🔴 Technologies I Use
-<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="48" height="48"/>
   </a>
