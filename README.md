@@ -1,11 +1,15 @@
 ### README.md      
 
-## 🔴Connect with me :
+## 📧 Contact Me
 <p align="left">
+  <a href="mailto:hamedtaromi8@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/gmail.png" alt="Email" width="48" height="48"/>
+  </a>
+ <p align="left">
  <a href="https://www.linkedin.com/in/hamedtaromi/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="48" height="48"/>
   </a>
-
+</p>
 ## 🔴 Technologies I Use :
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
