@@ -8,10 +8,10 @@
   </a>
   
   <a href="mailto:hamedtaromi8@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/gmail.png" alt="Email" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="48" height="48"/>
   </a>
-   
 </p>
+   
 
 ## 🔴 Technologies I Use :
 <p align="left">
