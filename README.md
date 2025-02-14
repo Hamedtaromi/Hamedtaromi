@@ -1,6 +1,9 @@
 ## 👋 About Me 
 ### DevSecOps Engineer
 💡 Always learning, experimenting, and sharing knowledge.
+
+
+
 --------------------------------
 ## 📧 Contact Me
 
@@ -13,8 +16,8 @@
     <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/>
   </a>
 </p>
-   -------------------------
 
+-------------------------
 ## 🔴 Technologies I Use :
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
