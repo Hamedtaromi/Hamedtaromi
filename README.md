@@ -7,7 +7,7 @@
   </a>
   
 
-## 🔴 Technologies I Use :
+### 🔴 Technologies I Use :
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
