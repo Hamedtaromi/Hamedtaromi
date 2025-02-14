@@ -1,6 +1,6 @@
 ### README.md      
 
-## 📧 Contact Me
+## 🔴 Contact Me
 
  <p align="left">
  <a href="https://www.linkedin.com/in/hamedtaromi/" target="_blank" rel="noreferrer">
