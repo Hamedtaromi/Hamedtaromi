@@ -4,11 +4,11 @@
 
  <p align="left">
  <a href="https://www.linkedin.com/in/hamedtaromi/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="35" height="35"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"/>
   </a>
   
   <a href="mailto:hamedtaromi8@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/>
   </a>
 </p>
    
