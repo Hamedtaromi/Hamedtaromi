@@ -8,7 +8,7 @@
   </a>
   
   <a href="mailto:hamedtaromi8@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/gmail.png" alt="Email" width="45" height="45"/>
+    <img src="https://img.icons8.com/color/48/gmail.png" alt="Email" width="40" height="40"/>
   </a>
    
 </p>
@@ -55,37 +55,37 @@
     <img src="https://img.icons8.com/color/48/microsoft.png" alt="Microsoft"/>
   </a>
   <a href="https://owasp.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/owasp/000000" alt="OWASP" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/owasp/000000" alt="OWASP" width="40" height="40"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/apachekafka/231F20" alt="Apache Kafka" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/apachekafka/231F20" alt="Apache Kafka" width="40" height="40"/>
   </a>
   <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/apache/D22128" alt="Apache" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/apache/D22128" alt="Apache" width="40" height="40"/>
   </a>
    <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="Zabbix" width="40" height="40"/>
   </a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus" width="40" height="40"/>
   </a>
     </a>
   <a href="https://mikrotik.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/mikrotik/FF0000" alt="MikroTik" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/mikrotik/FF0000" alt="MikroTik" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/gitlab/FC6D26" alt="GitLab" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/gitlab/FC6D26" alt="GitLab" width="40" height="40"/>
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira" width="40" height="40"/>
   </a>
   <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" width="48" height="48"/>
+    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" width="40" height="40"/>
   </a>
 </p>
