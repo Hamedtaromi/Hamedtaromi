@@ -1,4 +1,6 @@
-### README.md      
+## 👋 About Me 
+### DevSecOps Engineer
+💡 Always learning, experimenting, and sharing knowledge.
 
 ## 📧 Contact Me
 
