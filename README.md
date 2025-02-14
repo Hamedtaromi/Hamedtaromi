@@ -72,4 +72,21 @@
   <a href="https://mikrotik.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/mikrotik/FF0000" alt="MikroTik" width="48" height="48"/>
   </a>
+  ## 🔴 Technologies I Use
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="48" height="48"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="48" height="48"/>
+  </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/gitlab/FC6D26" alt="GitLab" width="48" height="48"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira" width="48" height="48"/>
+  </a>
+  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" width="48" height="48"/>
+  </a>
 </p>
