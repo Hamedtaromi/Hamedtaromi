@@ -12,9 +12,9 @@
 
 ## 📧 Contact Me
 
- <p align="left">
- <a href="https://www.linkedin.com/in/hamedtaromi/" target="_blank" rel="noreferrer">
-    <img src="[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)" alt="LinkedIn" width="40" height="40"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/hamedtaromi/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="40" height="40"/>
   </a>
   
   <a href="mailto:hamedtaromi8@gmail.com" target="_blank" rel="noreferrer">
