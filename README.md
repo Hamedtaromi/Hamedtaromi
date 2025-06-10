@@ -13,9 +13,8 @@
 ## 📧 Contact Me
 
 <a href="https://www.linkedin.com/in/hamedtaromi/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/linkedin/white" alt="LinkedIn" width="40" height="40" style="background:#0A66C2; border-radius:5px; padding:5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40" style="background:#0A66C2; border-radius:5px; padding:5px;"/>
 </a>
-  
   <a href="mailto:hamedtaromi8@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/>
   </a>
