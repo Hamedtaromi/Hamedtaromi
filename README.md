@@ -14,7 +14,7 @@
 
  <p align="left">
  <a href="https://www.linkedin.com/in/hamedtaromi/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"/>
+    <img src="[https://cdn.simpleicons.org/linkedin/0A66C2](https://cdn.simpleicons.org/linkedin/0A66C2)" alt="LinkedIn" width="40" height="40"/>
   </a>
   
   <a href="mailto:hamedtaromi8@gmail.com" target="_blank" rel="noreferrer">
