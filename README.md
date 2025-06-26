@@ -109,10 +109,6 @@
 <a href="http://www.postman.com/" target="_blank" rel="noreferrer">
   <img src="http://assets.postman.com/postman-logo-horizontal-320x132.png" alt="Postman" width="48" />
 </a>
-<a href="http://www.soapui.org/" target="_blank" rel="noreferrer">
-  <img src="http://icons.iconarchive.com/icons/dtafalonso/android-l/48/Soap-UI-icon.png" alt="SoapUI" width="48" height="48" />
-</a>
-
 </p>
 
 
