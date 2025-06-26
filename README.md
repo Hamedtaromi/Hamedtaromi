@@ -106,12 +106,13 @@
 <a href="https://www.sonatype.com/nexus-repository-oss" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sonatype.svg" alt="Nexus Repository" width="48" height="48" />
 </a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://assets.postman.com/postman-logo-horizontal-320x132.png" alt="Postman" width="48" />
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer" style="display:inline-block; width:48px; height:48px;">
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABg3AmVAAAACXBIWXMAAAsTAAALEwEAmpwYAAABW0lEQVR4nO2XwQ3CMAxFz3kBSGxjoBwSnFAATnUiPewzZmcS7gPdpTz8cILImikLntvZVCAhgcLhuK1QLk9Xl2BqEAAADg5H2AHzAaY6gPoQEYIQXzKFDDBWcRhxLBf8WZT3I4UGRr5yr9qR2ju+Rz1w6RYJLKvSc46F6r/jh+6MeS80n8mWdeGS6SyRCLznp6QXxW3nRzZq1qEB9RfEbcoTck6p8S/qHMAp7np+QX6wXUDe9MxqC43Nds7V0/nnvIZnxqfwEfn7Xn7/8x+f5YAUOoBLkSmGQAAAABJRU5ErkJggg==" alt="Postman" width=<a href="https://www.soapui.org/" target="_blank" rel="noreferrer" style="display:inline-block; width:48px; height:48px;">
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABg3AmVAAAArElEQVR4nO3UQQrCQBRE0aKAoYERCAq4UCDkgTB8hChdwDe7g+4TaJqa6MYDd5lYe/KMz+z39cDILBJAWSXfGcYA6kBbEiq2ZQqN+RLMfMcvD64x3jeoy4w35R8cWtgqPgHl5xeYxDrGiwxQZwKdUJskGfEMBgLdYbqFI2ME6JmR9JDpFDqSyxFS78r0XeQbfAPcT2QfYATkA78uQeC6UB6aM0f0TjjANmRMxlmPZ1lTnOApoZhHGxv0jAYPjTz8YFYoJ3nFQq5QAAAABJRU5ErkJggg==" alt="SoapUI" width="48" height="48" />
 </a>
-<a href="https://www.soapui.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/soapui.svg" alt="SOAP UI" width="48" height="48" />
+"48" height="48" />
 </a>
+
 </p>
 
 
