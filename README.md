@@ -49,7 +49,7 @@
     <img src="https://img.icons8.com/color/48/elasticsearch.png" alt="Elasticsearch"/>
   </a>
   <a href="https://www.elastic.co/logstash/" target="_blank" rel="noreferrer">
-  
+  </a>
   <a href="https://www.elastic.co/kibana/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/kibana.png" alt="Kibana"/>
   </a>
