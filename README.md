@@ -103,4 +103,9 @@
   <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" width="40" height="40"/>
   </a>
+<a href="https://nexus.example.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/sonatype/4E4E4E" alt="Nexus Repository" width="40" height="40"/>
+</a>
 </p>
+
+
