@@ -104,7 +104,7 @@
     <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" width="40" height="40"/>
   </a>
 <a href="https://www.sonatype.com/nexus-repository-oss" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/nexus.png" alt="Nexus Repository" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sonatype.svg" alt="Nexus Repository" width="48" height="48" />
 </a>
 </p>
 
