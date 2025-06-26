@@ -107,10 +107,10 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sonatype.svg" alt="Nexus Repository" width="48" height="48" />
 </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/postman-api.png" alt="Postman" />
+  <img src="https://assets.postman.com/postman-logo-horizontal-320x132.png" alt="Postman" width="48" />
 </a>
 <a href="https://www.soapui.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/ios-filled/48/000000/waves.png" alt="SOAP UI" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/soapui.svg" alt="SOAP UI" width="48" height="48" />
 </a>
 </p>
 
