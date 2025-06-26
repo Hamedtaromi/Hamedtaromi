@@ -106,9 +106,6 @@
 <a href="https://www.sonatype.com/nexus-repository-oss" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sonatype.svg" alt="Nexus Repository" width="48" height="48" />
 </a>
-<a href="http://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="http://assets.postman.com/postman-logo-horizontal-320x132.png" alt="Postman" width="48" />
-</a>
 </p>
 
 
