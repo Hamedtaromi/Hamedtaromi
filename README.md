@@ -31,9 +31,9 @@
 ## 🔴 Technologies I Use :
 <p align="left">
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" style="display:inline-block; width:40px; height:40px;">
-  <svg viewBox="0 0 100 100" width="40" height="40" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Oracle Logo">
-    <rect width="100" height="100" fill="#F80000"/>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-weight="bold" font-size="40">ORCL</text>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="40" height="40" role="img" aria-label="Oracle logo">
+    <path fill="#F80000" d="M0 0h400v400H0z"/>
+    <path fill="#fff" d="M92.8 280.2h27.1l37.3-92.7 39 92.7h26.7l54.7-133.9h-27.1l-33.9 95.9-40.5-95.9H125l-32.2 95.9-39-95.9H38.5z"/>
   </svg>
 </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
