@@ -30,12 +30,10 @@
 
 ## 🔴 Technologies I Use :
 <p align="left">
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer" style="display:inline-block; width:40px; height:40px;">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="40" height="40" role="img" aria-label="Oracle logo">
-    <rect width="400" height="400" fill="#F80000"/>
-    <path fill="#fff" d="M92.8 280.2h27.1l37.3-92.7 39 92.7h26.7l54.7-133.9h-27.1l-33.9 95.9-40.5-95.9H125l-32.2 95.9-39-95.9H38.5z"/>
-  </svg>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle" width="40" height="40"/>
 </a>
+
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
   </a>
