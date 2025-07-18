@@ -33,6 +33,12 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle" width="40" height="40"/>
 </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/mysql.png" alt="MySQL" width="40" height="40"/>
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/>
+</a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
