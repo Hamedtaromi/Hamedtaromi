@@ -31,7 +31,7 @@
 ## 🔴 Technologies I Use :
 <p align="left">
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA..." alt="Oracle" width="40" height="40"/>
+  <img src="https://iconduck.com/images/40027/oracle/icon.png" alt="Oracle" width="40" height="40"/>
 </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
