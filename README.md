@@ -1,5 +1,5 @@
 ## 👋 About Me 
-### DevSecOps Engineer
+### DBA & DevSecOps Engineer
 💡 Always learning, experimenting, and sharing knowledge.
 
 
