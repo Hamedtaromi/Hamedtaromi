@@ -63,8 +63,8 @@
       <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/microsoft.png" alt="Microsoft"/>
   </a>
-  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/apache/D22128" alt="Apache" width="40" height="40"/>
+   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/apachekafka/231F20" alt="Apache Kafka" width="40" height="40"/>
   </a>
    <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="Zabbix" width="40" height="40"/>
