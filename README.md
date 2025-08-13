@@ -69,15 +69,9 @@
    <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="Zabbix" width="40" height="40"/>
   </a>
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus" width="40" height="40"/>
-  </a>
     </a>
   <a href="https://mikrotik.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/mikrotik/FF0000" alt="MikroTik" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40"/>
