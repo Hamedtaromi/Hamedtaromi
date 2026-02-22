@@ -110,8 +110,23 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="40" height="40"/>
 </a>
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+  <img height="40" src="https://cdn.simpleicons.org/rabbitmq/FF6600" alt="RabbitMQ"/>
+</a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img height="40" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL"/>
+</a>
+<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="Snowflake" height="40"/>
+</a>
+<a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/googlebigquery/4285F4" alt="BigQuery" height="40"/>
+</a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" height="40"/>
+</a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/azure-1.png" alt="Azure" height="40"/>
 </a>
 </p>
 
