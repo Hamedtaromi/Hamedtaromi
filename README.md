@@ -128,6 +128,27 @@
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/azure-1.png" alt="Azure" height="40"/>
 </a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/terraform.png" alt="Terraform" height="40"/>
+</a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins" height="40"/>
+</a>
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/prometheus/EC7211" alt="Prometheus" height="40"/>
+</a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/grafana.png" alt="Grafana" height="40"/>
+</a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/ansible.png" alt="Ansible" height="40"/>
+</a>
+<a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer">
+  <img src="https://logo.svgcdn.com/logos/argo-icon.png" alt="Argo CD" height="40"/>
+</a>
+<a href="https://www.sonatype.com/nexus-repository-oss" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/sonatype/004C97" alt="Nexus Repository" height="40"/>
+</a>
 </p>
 
 
