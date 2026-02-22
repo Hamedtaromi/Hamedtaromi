@@ -85,22 +85,28 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/>
 </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+</a>
+
 <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/apache/D22128" alt="Apache" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/apache.png" alt="Apache"/>
 </a>
+
 <a href="https://nginx.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/nginx.png" alt="Nginx"/>
 </a>
+
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" alt="Apache Airflow" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/apache-airflow.png" alt="Apache Airflow"/>
 </a>
+
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" alt="Apache Hadoop" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="Hadoop"/>
 </a>
+
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="Apache Spark" width="40" height="40"/>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/48/apache-spark.png" alt="Apache Spark"/>
 </a>
 
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
