@@ -82,6 +82,24 @@
   <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" width="40" height="40"/>
   </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/>
+</a>
+<a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/apache/D22128" alt="Apache" width="40" height="40"/>
+</a>
+<a href="https://nginx.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx" width="40" height="40"/>
+</a>
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" alt="Apache Airflow" width="40" height="40"/>
+</a>
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" alt="Apache Hadoop" width="40" height="40"/>
+</a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="Apache Spark" width="40" height="40"/>
+</a>
 </p>
 
 
