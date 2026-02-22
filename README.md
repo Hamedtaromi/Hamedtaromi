@@ -99,18 +99,20 @@
 </a>
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="Apache Spark" width="40" height="40"/>
-</a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/>
 </a>
+
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/mariadb/003545" alt="MariaDB" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/mariadb.png" alt="MariaDB"/>
 </a>
+
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
 </a>
+
 <a href="https://www.reddit.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/reddit/FF4500" alt="Reddit" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/reddit.png" alt="Reddit"/>
 </a>
 </p>
 
