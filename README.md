@@ -1,5 +1,5 @@
 ## 👋 About Me 
-### DBA & Data Engineer 
+### Data Platform engineer
 💡 Always learning, experimenting, and sharing knowledge.
 
 
