@@ -67,30 +67,17 @@
     <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="Zabbix" width="40" height="40"/>
   </a>
     </a>
-  <a href="https://mikrotik.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/mikrotik/FF0000" alt="MikroTik" width="40" height="40"/>
-  </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/gitlab/FC6D26" alt="GitLab" width="40" height="40"/>
   </a>
-  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" width="40" height="40"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/>
 </a>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/mariadb/003545" alt="MariaDB" width="40" height="40"/>
-</a>
-<a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/apache/D22128" alt="Apache" width="40" height="40"/>
-</a>
-
-<a href="https://nginx.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/nginx.png" alt="Nginx"/>
 </a>
 
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
@@ -131,9 +118,6 @@
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/terraform.png" alt="Terraform" height="40"/>
 </a>
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins" height="40"/>
-</a>
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/prometheus/EC7211" alt="Prometheus" height="40"/>
 </a>
@@ -142,12 +126,6 @@
 </a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/ansible.png" alt="Ansible" height="40"/>
-</a>
-<a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer">
-  <img src="https://logo.svgcdn.com/logos/argo-icon.png" alt="Argo CD" height="40"/>
-</a>
-<a href="https://www.sonatype.com/nexus-repository-oss" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/sonatype/004C97" alt="Nexus Repository" height="40"/>
 </a>
 </p>
 
