@@ -1,9 +1,12 @@
-## 👋 About Me 
-### Data Platform engineer
-💡 Always learning, experimenting, and sharing knowledge.
+## 👋 About Me
 
+### Data Platform Engineer | Data Engineer | Oracle DBA
 
+Passionate about designing scalable data platforms, managing enterprise Oracle databases, and building reliable data pipelines.
 
+💡 I enjoy solving complex infrastructure and data challenges through automation, cloud technologies, and modern data engineering practices.
+
+🚀 Always learning, building, and sharing knowledge.
 --------------------------------
 
 
