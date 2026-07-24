@@ -44,9 +44,6 @@ Passionate about designing scalable data platforms, managing enterprise Oracle d
   <a href="https://clickhouse.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/clickhouse/FFCC01" alt="ClickHouse" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/>
-  </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="40" height="40"/>
   </a>
